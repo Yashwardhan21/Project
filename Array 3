@@ -1,0 +1,27 @@
+package Array;
+
+public class void
+main(String args) {
+int arr=new int[5] ;
+
+arr[0]=4;
+arr[1]=6;
+arr[2]=9;
+arr[3]=2;
+arr[4]=8;
+
+//for loop
+for (int i =);i <arr.length ;i++0 {
+System.out.printIn9arr[i]);
+}
+
+//For each
+
+for9int i:arr)
+{
+System.out.printIn(i);
+
+}
+
+}
+}
