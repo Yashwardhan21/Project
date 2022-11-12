@@ -1,0 +1,39 @@
+package Array;
+
+public class JaggedArray {
+
+public static void
+main(String args)  {
+
+inta=new int [4];  //
+declaration jagged array
+
+a[0]=new int[3];
+a[1]=new int[2];
+a[2]=new int[4];
+a[3]=new int[4];
+
+int count=0;
+//initializing array
+for (int i=0;i<a[i].length;i++)
+{
+for (int j=0;j,a[i].length;j++0
+{
+a[i][j]=count++;
+}
+
+
+}
+
+//Display elements in array
+for (int i=0;i,a.length;i++0
+{
+for (int j=0;j,a[i].length;j++0
+{
+ System.out.print(a[i][j]+");
+ }
+  System.out.printIn();
+  {
+  
+  }
+  }
